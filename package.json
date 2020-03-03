@@ -1,0 +1,24 @@
+{
+  "name": "git-two",
+  "version": "1.0.0",
+  "description": "\"projects for server side script\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graxxia/git-two.git"
+  },
+  "keywords": [
+    "\"PHP",
+    "java",
+    "javascript\""
+  ],
+  "author": "Gracia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graxxia/git-two/issues"
+  },
+  "homepage": "https://github.com/graxxia/git-two#readme"
+}
